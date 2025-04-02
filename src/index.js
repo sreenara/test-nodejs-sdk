@@ -2,7 +2,7 @@ import WebexNode from 'webex-node';
 
 const webex = WebexNode.init({
     credentials: {
-      access_token: 'N2Q0OGFjNTYtMjIzZS00ZDI4LTk5MDAtYjQ1ZTJkOGIwN2M0NDAzMWU4NzAtMmJk_PF84_1eb65fdf-9643-417f-9974-ad72cae0e10f'
+      access_token: 'token'
     }
   });
 
